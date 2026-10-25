@@ -1,9 +1,19 @@
 # Raja Builds
 
-Website source backup for [Raja Builds](https://raja-builds.vercel.app/) and its [India edition](https://raja-builds.vercel.app/india/).
+**Your idea. My skills. Our creation.**
 
-Built by Raja · Your idea. My skills. Our creation.
+Personal website and creative digital services by Raja, including websites, digital invitations, event registrations, digital designs, practical technology guidance, and a simplified India edition.
 
-This directory contains the source for the public website, including the English and India pages, visual assets, styling, accessibility enhancements, and a Vercel configuration. Its content is maintained separately from other repositories.
+- Main website: https://raja-builds.vercel.app/
+- India edition: https://raja-builds.vercel.app/india/
+- Source: this `raja-builds/` folder inside the GitHub profile repository.
 
-**Deployment:** Currently published directly to Vercel; this backup has not yet been linked for automatic GitHub-based deployments.
+## Site structure
+
+- `index.html` — primary site
+- `india/index.html` — India site
+- `styles.css`, `app.js` — shared styling and interactions
+- `assets/` — optimized portrait and social sharing image
+- `robots.txt`, `sitemap.xml`, `vercel.json` — SEO and hosting configuration
+
+This is a **source backup**, not a standalone repository or an automated GitHub-to-Vercel deployment connection yet. The live project remains published directly to Vercel. A dedicated `raja-builds` repository would be recommended before enabling automatic Git-based deployments.
